@@ -4,4 +4,4 @@ The dataset consists of 8732 sound excerpts that are shorter than 4 seconds each
 
 A rough outline of the project stages is shown in Figure 1. We will use Python 3 packages to do all the data analysis, modeling and visualization needed to draw the appropriate conclusions.
 
-<img src="images/intro_methods.png" alt="hi" class="inline"/>
+<img src="images/intro_methods.PNG" alt="hi" class="inline"/>
